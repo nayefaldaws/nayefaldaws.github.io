@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nayefaldaws.github.io/sitemap.xml
